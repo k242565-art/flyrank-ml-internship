@@ -3,6 +3,9 @@
 ## Abstract
 
 This project investigates whether historical search-performance signals can be used to prioritize content refresh opportunities. Using the FlyRank ML Internship dataset, I analyzed content age, traffic trends, engagement metrics, and search-performance indicators to identify pages that may benefit from editorial review. A rule-based baseline was developed and compared against a machine-learning model. Validation included grouped evaluation, leakage checks, and error analysis. The resulting action playbook provides ranked recommendations intended for human decision-support.
+## FlyRank Content Refresh Case Study
+
+This project addresses the FlyRank content refresh prioritization problem. Large content libraries contain thousands of pages, making manual review difficult and resource-intensive. The goal of this study was to evaluate whether historical search-performance signals could be used to identify content that may benefit from editorial review. Rather than automating content decisions, the system was designed as a decision-support tool that helps prioritize human review efforts. This reflects the real-world content optimization challenges addressed within the FlyRank platform.
 
 ---
 
